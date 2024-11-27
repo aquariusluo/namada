@@ -16,4 +16,12 @@ https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-9/staki
 https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-8/staking-power.toml
 
 # Community Building
+## Offline salon:  
+https://twitter.com/Rogers86088824/status/1728710701131374877
+## online webinar:   
+https://meeting.tencent.com/v2/cloud-record/share?id=03e10856-0e9c-4484-9c8d-6d8bd3fa7c6a&from=3
+## in-depth explanation Namada:   
+https://www.youtube.com/watch?v=lf_-dtawHAk
+## explain how to setup IBC relayer:   
+https://twitter.com/Rogers86088824/status/1727624361052692962
 
