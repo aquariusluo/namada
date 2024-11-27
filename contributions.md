@@ -1,12 +1,16 @@
-# Dry run
+# 1. Dry run
+## validator profile
 https://testnet.namada.valopers.com/validators/tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca  
+## PR
 https://github.com/anoma/namada-mainnet-genesis/blob/main/transactions/aquariusluo-validator.toml  
 
 # Shielded Expedition
+## Reward
+https://docs.google.com/spreadsheets/d/1FvTVVv9uUxz0rtO15bOrEPBBWVeSJYftnWI_TJucFSM/edit?gid=0#gid=0&range=C70 
+## PR
 https://github.com/anoma/namada-shielded-expedition/blob/main/signed_genesis_transactions/staking-power.toml  
-https://docs.google.com/spreadsheets/d/1FvTVVv9uUxz0rtO15bOrEPBBWVeSJYftnWI_TJucFSM/edit?gid=0#gid=0&range=C70  
-
-# Pre-genesis validator testnet8 - 15
+ 
+# 2. Pre-genesis validator testnet8 - 15
 https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-15/staking-power.toml  
 https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-14/staking-power.toml  
 https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-13/staking-power.toml  
@@ -16,7 +20,7 @@ https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-10/stak
 https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-9/staking-power.toml  
 https://github.com/anoma/namada-testnets/blob/main/namada-public-testnet-8/staking-power.toml  
 
-# Community Building
+# 3. Community Building
 ## offline salon:  
 https://twitter.com/Rogers86088824/status/1728710701131374877
 ## online webinar:   
